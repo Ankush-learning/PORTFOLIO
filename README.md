@@ -34,14 +34,6 @@ A full-stack disaster management platform featuring emergency reporting, real-ti
 
 ### 3. Fake Review Detection Using BiLSTM
 A deep learning-based NLP project designed to classify online product reviews as genuine or deceptive using Bidirectional LSTM networks.
-
-**Focus:** Python, NLP, Deep Learning, BiLSTM, TensorFlow.
-
-### 4. Performance Analysis of Type-1 and Type-2 Hypervisors
-An empirical performance evaluation comparing bare-metal and hosted virtualization architectures under standardized guest environments.
-
-**Focus:** Proxmox VE, KVM, VMware Workstation, Linux, Sysbench.
-
 ## Technology Stack
 
 **Languages**
